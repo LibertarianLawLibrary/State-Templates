@@ -77,16 +77,13 @@ Be it therefore resolved that the State of [State Name], in defense of its sover
 
 2. The State Treasurer is hereby instructed to ensure that no state funds are allocated or disbursed in violation of this Act.
 
+3. The State of [State Name] is prohibited from creating or holding cryptocurrency wallets in the name of any individual or entity.
 
-## Section 6: Protection of Individual Cryptocurrency Ownership
+4. All Bitcoin proceeds from the sale of federal property shall only be sent directly to a cryptocurrency wallet designated by the individual resident.
 
-1. The State of [State Name] is prohibited from creating or holding cryptocurrency wallets in the name of any individual or entity.
+5. If a resident does not have a designated wallet at the time of distribution, they must be given the opportunity to create or designate a wallet within a specified time frame, after which the funds will be sent directly to their chosen wallet.
 
-2. All Bitcoin proceeds from the sale of federal property shall only be sent directly to a cryptocurrency wallet designated by the individual resident.
-
-3. If a resident does not have a designated wallet at the time of distribution, they must be given the opportunity to create or designate a wallet within a specified time frame, after which the funds will be sent directly to their chosen wallet.
-
-4. Under no circumstances shall the state hold, manage, or control the Bitcoin on behalf of any individual or entity.
+6. Under no circumstances shall the state hold, manage, or control the Bitcoin on behalf of any individual or entity.
 
 
 ## Section 7: Protection of State Sovereignty
