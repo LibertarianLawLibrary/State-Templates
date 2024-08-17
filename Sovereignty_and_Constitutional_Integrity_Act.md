@@ -61,7 +61,7 @@ Be it therefore resolved that the State of [State Name], in defense of its sover
 
 ## Section 5: Transfer and Sale of Federal Property
 
-1. All federal property within the State of [State Name] that is associated with or used by unconstitutional federal departments and agencies shall be transferred to the state’s ownership.
+1. All federal property within the State of [State Name] that is associated with or used by unconstitutional federal departments and agencies shall be transferred to the stateâs ownership.
 
 2. The Governor, in conjunction with the State Legislature, shall oversee the sale of such property.
 
@@ -76,6 +76,18 @@ Be it therefore resolved that the State of [State Name], in defense of its sover
 1. Any state official, agency, or entity found to be in violation of this Act shall be subject to investigation and potential removal from office, as well as any applicable legal penalties for misuse of state funds.
 
 2. The State Treasurer is hereby instructed to ensure that no state funds are allocated or disbursed in violation of this Act.
+
+
+## Section 6: Protection of Individual Cryptocurrency Ownership
+
+1. The State of [State Name] is prohibited from creating or holding cryptocurrency wallets in the name of any individual or entity.
+
+2. All Bitcoin proceeds from the sale of federal property shall only be sent directly to a cryptocurrency wallet designated by the individual resident.
+
+3. If a resident does not have a designated wallet at the time of distribution, they must be given the opportunity to create or designate a wallet within a specified time frame, after which the funds will be sent directly to their chosen wallet.
+
+4. Under no circumstances shall the state hold, manage, or control the Bitcoin on behalf of any individual or entity.
+
 
 ## Section 7: Protection of State Sovereignty
 
