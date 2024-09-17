@@ -1,7 +1,3 @@
-Here is the updated **"Free Speech and Privacy Protection Act,"** now incorporating the additional protections and clarifications to create a more comprehensive defense against federal overreach:
-
----
-
 **STATE OF NEW HAMPSHIRE**
 
 **In the Year of Our Lord Two Thousand Twenty-Four**
